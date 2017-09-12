@@ -1,0 +1,4 @@
+class models.Oven Bosh_Kit false 27 210 14 false
+class models.Refrigerator Bora_Hangscore true 120 250 34 -22 10
+class models.Tablets Asus_IdeaPad false 2 11 8 Linux
+class models.TV Panasonic_Tele false 50 140 100 400

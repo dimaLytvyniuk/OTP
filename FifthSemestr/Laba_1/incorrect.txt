@@ -1,0 +1,4 @@
+class models.Ove Arriston_Grill true 15 380 16 true
+class models.Refrigerator Samsung Cold true 43 400 40 -20 20
+class models.Tablets Apple_IPad false 1 12 7 ssjs
+class models.TV Phillips_TV true 50 50 120

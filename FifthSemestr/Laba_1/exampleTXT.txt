@@ -1,0 +1,12 @@
+class models.Oven Arriston_Grill true 15 380 16 true
+class models.Refrigerator Samsung_Cold true 43 400 40 -20 20
+class models.Tablets Apple_IPad false 1 12 7 IOS
+class models.TV Phillips_TV true 50 120 50 120
+class models.Oven Чайка_Спека false 23 230 12 false
+class models.Oven Samsung_Hot true 21 250 10 true
+class models.Refrigerator Харьков_Холод false 120 320 32 -10 5
+class models.Refrigerator Kenwood_Freeze true 140 350 28 -20 15
+class models.Tablets Samsung_Tab false 2 18 10 Android
+class models.Tablets Microsoft_Surface false 3 20 11 Windows
+class models.TV LG_G3 false 67 200 82 500
+class models.TV Samsung_SmartTV false 60 180 32 250
