@@ -1,0 +1,37 @@
+@startuml
+class C11 {
+    void meth1()
+    void meth3()
+}
+
+class C12 {
+    void meth2()
+    void meth3()
+}
+
+class C13 {
+    void meth3()
+}
+
+interface If1 {
+    void meth1()
+}
+
+interface If2 {
+    void meth2()
+}
+
+interface If3 {
+    void meth3()
+}
+
+If3 <|--If2
+If3 <|-- If1
+If1 <|.. C11
+If2 <|.. C12
+If3 <|.. C13
+C13 <|-- C12
+If1 --o C11
+If2 --o C11
+C13 --o C12
+@enduml
